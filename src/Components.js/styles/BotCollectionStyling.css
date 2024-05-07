@@ -1,0 +1,19 @@
+.bot-container-wrapper {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+    padding: 10px; 
+  }
+  
+  .bot-collection-item { 
+    margin: 10px; 
+    text-align: center; 
+    
+  }
+  
+  .bot-name-link { 
+    text-decoration: none; 
+    color: #333; 
+    
+  }
+  

@@ -1,0 +1,45 @@
+.bot-container {
+    border: 1px solid #ddd; 
+    border-radius: 5px; 
+    padding: 10px; 
+    margin: 10px; 
+    text-align: center; 
+    width: 250px;
+    display: flex; 
+    flex-direction: column; 
+    max-width: unset;
+  }
+  
+  .bot-avatar {
+    width: 100px; 
+    height: 100px;
+    border-radius: 50%; 
+    margin: 10px auto; 
+  }
+  
+  h2 {
+    margin-bottom: 5px; 
+  }
+  
+  p {
+    white-space: wrap;
+    margin-bottom: 5px; 
+  }
+  
+  button {
+    padding: 5px 10px; 
+    border: none; 
+    border-radius: 3px; 
+    cursor: pointer;
+    margin: 5px; 
+  }
+  
+  .discharge-button {
+    background-color: #e3342b; 
+    color: white; 
+  }
+  
+  .bot-container:hover { 
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+  }
+  
